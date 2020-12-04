@@ -1,0 +1,34 @@
+.header{
+    display: none;
+}
+
+.fixed-content{
+    display: block;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    background-color: rgb(12, 12, 12);
+    
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.margen{
+    margin: 0 3rem;
+}
+.fixed-content picture img{
+    width: 5vh
+}
+.nav, ul{
+    display: inherit;
+    align-items: center;
+    justify-content: flex-end;
+    list-style: none;
+}
+.nav ul, .nav ul li, .nav a{
+    margin-right: 2rem;
+}
+.nav a{
+    color: #9c780b;
+}
