@@ -24,7 +24,7 @@
     }
     .container-list {
         width: 70%;
-        margin-bottom: 2vh;
+        margin-bottom: 5vh;
     }
     .wrapper.w-reverse, .wrapper {
         flex-direction: column-reverse;
