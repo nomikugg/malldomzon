@@ -259,7 +259,7 @@ h1, h2 {
     padding: 0.4rem;
 }
 .card-item{
-    border-radius: 42px;
+    border-radius: 12px;
     background-color: #9c780b;
     color: white;
     display: flex;
