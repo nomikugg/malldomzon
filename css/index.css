@@ -23,14 +23,15 @@ h1, h2 {
 
 @media only screen and (max-width: 1600px) and (min-width: 1024px){
     h1 {
-        font-size: 39px;
+        font-size: 3.5vw;
+        text-align: center;
     }
 
     h2 {
-        font-size: 34px;
+        font-size: 3vw;
     }
     .x-large{
-        font-size: 18px;
+        font-size: 1.4vw;
     }
 }
 .hero .background-image.large {
@@ -196,7 +197,7 @@ h1, h2 {
     flex-direction: row-reverse;
 }
 .title2, .title3{
-    color: #f9f9f9;
+    color: #9c780b;
 }
 .caption .foreground-image img {
     display: block;
