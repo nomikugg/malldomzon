@@ -6,6 +6,7 @@ body{
     background-size: 100% auto;
     background-position: top;
     color: #f9f9f9;
+    overflow-x: hidden;
 }
 body, button, input, select {
     /* font-family: 'Avenir Roman',sans-serif; */
@@ -17,7 +18,7 @@ h2, h3, h4, h5, p {
 
 @media only screen and (max-width: 1023px) and (min-width: 769px){
 h1, h2 {
-    font-size: 28px;
+    font-size: 3vw;
 }
 }
 
